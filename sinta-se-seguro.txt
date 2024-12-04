@@ -1,0 +1,14 @@
+Projeto Framework: Sinta-se Seguro
+ODS: 5 Igualdade de Gênero/ 3 Saúde e Bem-Estar.
+
+Resumo: App focado na segurança, com formas configuráveis para medidas de segurança, sendo possível fazer pedidos de ajuda programado, onde por meio de clicks no celular, enviará mensagem a familiares, ou poderá entrar em chamada com a polícia.
+
+Ligação para familiares
+Localização em tempo real -
+Ligação para a polícia 
+Sirene alta -
+Mensagem automática para quem desejar -
+Foto dianteira e traseira do celular -
+
+Diferencial:
+Programar diferentes tipos de modos de segurança, com diferentes tipos de funcionalidade
